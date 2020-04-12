@@ -10,8 +10,8 @@
 * [LinkedIn](https://www.linkedin.com/in/carvalhoanamaria/)
 * [Medium](https://medium.com/@anamariasous_)
 
-## Artigos abordando assuntos relacionado com Python:
+## Artigos abordando assuntos relacionado ao Python:
 * **Python: Tipos de dados:** https://bit.ly/3c90SMg
-
+* **Python - Manipulando Tuplas:** https://bit.ly/2VlApnX
 ## Projetos:
 :

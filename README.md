@@ -16,7 +16,11 @@
 * [Medium](https://medium.com/@anamariasous_)
 
 ## Artigos abordando assuntos relacionado ao Python:
+* ** Na plataforma Medium:
 * **Python: Tipos de dados:** https://bit.ly/3c90SMg
 * **Python - Manipulando Tuplas:** https://bit.ly/2VlApnX
-## Projetos:
-:
+
+* ** Na plataforma Colaboratory
+* **Python - Manipulando Tuplas:** https://bit.ly/2VSKaeE
+
+

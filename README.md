@@ -9,7 +9,7 @@
 <sub>*Linguagem de Programação Python*</sub>
 
 
-**Links:**
+**Links para conferir mais:**
 * [LinkedIn](https://www.linkedin.com/in/carvalhoanamaria/)
 * [Medium](https://medium.com/@anamariasous_)
 

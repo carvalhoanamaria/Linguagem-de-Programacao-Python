@@ -9,18 +9,18 @@
 <sub>*Linguagem de Programação Python*</sub>
 
 
-**Background in:** 
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carvalhoanamaria/)
 * [Medium](https://medium.com/@anamariasous_)
 
 ## Artigos abordando assuntos relacionado ao Python:
+*  Na plataforma Colaboratory
+* **Python - Manipulando Tuplas:** https://bit.ly/2VSKaeE
+
 *  Na plataforma Medium:
 * **Python: Tipos de dados:** https://bit.ly/3c90SMg
 * **Python - Manipulando Tuplas:** https://bit.ly/2VlApnX
 
-*  Na plataforma Colaboratory
-* **Python - Manipulando Tuplas:** https://bit.ly/2VSKaeE
+
 
 

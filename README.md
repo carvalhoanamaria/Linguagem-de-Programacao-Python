@@ -16,7 +16,7 @@
 ## Artigos abordando assuntos relacionado ao Python:
  ### Na plataforma Colaboratory
 * **Python - Manipulando Tuplas:** https://bit.ly/2VSKaeE
-* **Python - Manipulando Dicionário:**
+* **Python - Manipulando Dicionário:** https://bit.ly/2z80DTe
 
 ### Na plataforma Medium:
 * **Python: Tipos de dados:** https://bit.ly/3c90SMg
